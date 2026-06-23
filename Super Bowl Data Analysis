@@ -1,18 +1,32 @@
 # Super Bowl Data Analysis
 
-Analyzed historical Super Bowl data to identify trends and patterns in team performance.
+## Overview
 
-## Tech Stack
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Tableau
-- Streamlit
+This project analyzes historical Super Bowl data to identify trends in team performance, television viewership, and halftime show popularity.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## Dataset Files
+
+* super_bowls.csv
+* tv_data.csv
+* halftime_show_artists.csv
 
 ## Analysis Performed
-1. Team performance trends
-2. Player statistics analysis
-3. Historical comparisons
-4. Data visualization dashboard
-5. Pattern discovery from 50+ years of data
+
+* Team performance comparison
+* Historical game statistics analysis
+* TV viewership trend analysis
+* Halftime show artist popularity analysis
+* Data visualization and trend discovery
+
+## Outcome
+
+Built an analytical dashboard to understand historical trends and audience engagement patterns across Super Bowl events.
+
